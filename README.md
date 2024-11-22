@@ -11,7 +11,7 @@ A Java-based desktop application designed to streamline the placement process fo
 <h3>Dynamic Reports:</h3> Generates a detailed ledger report showing student details and placement info.
   
 🔧 <h1>Technologies Used</h1>
-Java Swing (AWT) for GUI
+Java Swing (AWT) for GUI <br>
 BufferedReader & BufferedWriter for handling text file operations
 
 🗂<h2> Project Structure</h2>
