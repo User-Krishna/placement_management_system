@@ -31,6 +31,6 @@ git clone https://github.com/yourusername/placement-management-system.git
 
 <h2>2.Navigate to the project folder and compile:</h2>
 <h3>bash:</h3>
-javac Ledger.java
+javac Ledger.java<br>
 java Ledger
 <h2>3.Search for student records and view the placement ledger.</h2>
